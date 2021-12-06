@@ -1,0 +1,1 @@
+This analysis focuses on cleaning and preparing data from DETE (Department of Education, Training and Employment) and TAFE (Technical and Further Education Institute) employees exit surveys.
